@@ -1,1 +1,1 @@
-# LGMVIP-JAVA-Internship
+# LGMVIP-JAVA-Internship Currency Converter
